@@ -1,6 +1,6 @@
 <div align="center">
 
-# Motor Anomaly Detection
+# Edge Visual Inspection System — TinyML on ESP32-CAM
 ### Real-Time Edge AI + IoT Monitoring System
 
 [![Arduino](https://img.shields.io/badge/Arduino-IDE%202.x-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
